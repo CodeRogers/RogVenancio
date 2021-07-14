@@ -1,8 +1,14 @@
 ### Hi there 👋,
 
-- 👨🏽‍💻 I'm majoring in Computer Engineering
-- 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr. I code in Javascript using NodeJS and Express, with experience in MySQL database.
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
+- 📖 I'm majoring in Computer Engineering.
+- 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr.
+- 👨🏽‍💻 I code in Javascript using NodeJS and Express, with experience in MySQL database.
 - 🌱 I’m currently learning ReactJS and Typescript, to expand my knowledge.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RogVenancio/RogVenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

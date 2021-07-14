@@ -1,7 +1,7 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RogVenancio" alt="RogVenancio" /> </p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RogVenancio" alt="RogVenancio" /> </p>
 
 - 📖 I'm majoring in Computer Engineering.
 - 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr.

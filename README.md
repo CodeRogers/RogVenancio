@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=RogVenancio)
 
 - 📖 I'm majoring in Computer Engineering.
 - 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr.

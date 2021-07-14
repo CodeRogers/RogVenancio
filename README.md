@@ -7,10 +7,10 @@
 - 👨🏽‍💻 I code in Javascript using NodeJS and Express, with experience in MySQL database.
 - 🌱 I’m currently learning ReactJS and Typescript, to expand my knowledge.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/klayverxd)](https://github.com/Klayverx)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klayverximenes/)](https://www.linkedin.com/in/klayverximenes)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/klayverxd/)](https://www.instagram.com/klayverxd/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klayverx@gmail.com)](mailto:klayverx@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RogVenancio)](https://github.com/RogVenancio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriovenancio/)](https://www.linkedin.com/in/rogeriovenancio)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rogeriovmota/)](https://www.instagram.com/rogeriovmota/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriogvmm@gmail.com)](mailto:rogeriogvmm@gmail.com)
 
 
 

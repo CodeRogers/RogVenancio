@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-![](https://komarev.com/ghpvc/?username=RogVenancio)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RogVenancio" alt="RogVenancio" /> </p>
 
 - 📖 I'm majoring in Computer Engineering.
 - 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr.
@@ -12,7 +12,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rogeriovmota/)](https://www.instagram.com/rogeriovmota/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriogvmm@gmail.com)](mailto:rogeriogvmm@gmail.com)
 
-
+**Me encontre por aqui! 👇🏽**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

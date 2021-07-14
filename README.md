@@ -1,5 +1,6 @@
-### Hi there 👋,
+### Hi there 👋
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RogVenancio" alt="RogVenancio" /> </p>
 
 - 📖 I'm majoring in Computer Engineering.
@@ -7,12 +8,14 @@
 - 👨🏽‍💻 I code in Javascript using NodeJS and Express, with experience in MySQL database.
 - 🌱 I’m currently learning ReactJS and Typescript, to expand my knowledge.
 
+**Contact me! 👇🏽**
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RogVenancio)](https://github.com/RogVenancio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriovenancio/)](https://www.linkedin.com/in/rogeriovenancio)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rogeriovmota/)](https://www.instagram.com/rogeriovmota/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriogvmm@gmail.com)](mailto:rogeriogvmm@gmail.com)
 
-**Contact me! 👇🏽**
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

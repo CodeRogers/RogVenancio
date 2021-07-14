@@ -1,7 +1,8 @@
 ### Hi there 👋,
 
-I'm majoring in Computer Engineering
-and currently I am part of the development team at Loading Desenvolvimento Jr. I code in Javascript using NodeJS and Express, with experience in MySQL database. I have also studied ReactJS and Typescript, to expand my knowledge.
+- 👨🏽‍💻 I'm majoring in Computer Engineering
+- 🔭 I’m currently part of the development team at Loading Desenvolvimento Jr. I code in Javascript using NodeJS and Express, with experience in MySQL database.
+- 🌱 I’m currently learning ReactJS and Typescript, to expand my knowledge.
 
 <!--
 **RogVenancio/RogVenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

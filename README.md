@@ -12,6 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriovenancio/)](https://www.linkedin.com/in/rogeriovenancio)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rogeriovmota/)](https://www.instagram.com/rogeriovmota/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D74E43?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriogvmm@gmail.com)](mailto:rogeriogvmm@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-00B333?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5588996967711)](https://api.whatsapp.com/send?phone=+5588996967711)
 
 ---
 
